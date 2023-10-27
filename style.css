@@ -1,0 +1,93 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Mooli', sans-serif;
+}
+
+
+
+.container{
+    margin: 50px auto;
+    width: 50%;
+}
+
+.h1{
+    margin: 10px 0px;
+}
+
+label{
+    font-family: 'Mooli', sans-serif;
+}
+
+.your-name-input{
+    margin: 10px 0px;
+    padding: 10px 0px;
+}
+
+.your-partners-input{
+    padding: 10px 0px;
+}
+
+
+
+h1{
+    text-align: center;
+    font-family: 'Mooli', sans-serif;
+}
+
+
+::placeholder{
+    font-family: 'Mooli', sans-serif;
+}
+
+input[type=text]{
+    padding: 15px 20px;
+    width: 100%;
+    border-radius: 24px;
+    border: 1px solid gainsboro;
+}
+
+
+input[type=text]:hover {
+    border: 1px solid #c0c0c0;
+  }
+
+
+input[type=button]{
+    font-family: 'Mooli', sans-serif;
+    padding: 15px 20px;
+    width: 100%;
+    border: 1px solid  rgb(143, 143, 143);
+    border-radius: 24px;
+    cursor: pointer;
+    background-color: rgb(234, 234, 234);
+}
+
+
+input[type=button]:hover{
+    border: 0px solid transparent;
+    color: white;
+    font-family: 'Mooli', sans-serif;
+    padding: 15px 20px;
+    width: 100%;
+    border-radius: 24px;
+    cursor: pointer;
+    background-color: rgb(235, 13, 1);
+}
+
+.final-div{
+    margin-top: 30px;
+    text-align: center;
+}
+
+
+p{
+    font-family: 'Mooli', sans-serif;
+
+}
+
+
+
+
+

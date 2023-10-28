@@ -1,30 +1,3 @@
-// function clickElement() {
-//     const yourName = document.getElementById('idann').value;
-//     const partnersName = document.getElementById('baby').value;
-
-//     if (yourName.trim() === '' || partnersName.trim() === '') {
-//         alert('Please enter both your name and your partner\'s name.');
-//         return;
-//     } 
-
-//     const loveScore = calculateLoveScore(yourName, partnersName);
-
-//     displayLoveScore(loveScore);
-// }
-
-// function calculateLoveScore(yourName, partnersName) {
-
-//     return Math.floor(Math.random() * 100) + 1;
-// }
-
-// function displayLoveScore(loveScore) {
-//     const finalDiv = document.querySelector('.final-div');
-//     const p = document.createElement('p');
-//     p.textContent = `Your love score is ${loveScore}%`;
-//     finalDiv.innerHTML = '';
-//     finalDiv.appendChild(p);
-// }
-
 
 const buttonClick = document.querySelector("#true-click");
 
